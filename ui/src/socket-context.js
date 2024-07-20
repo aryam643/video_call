@@ -5,7 +5,7 @@ import Peer from "simple-peer";
 const SocketContext = createContext();
 const CONNECTION_LINK =
   process.env.NODE_ENV === "production"
-    ? "https://video-chat-app-github.herokuapp.com/"
+    ? "_"
     : "http://localhost:5000";
 const socket = io(CONNECTION_LINK);
 
