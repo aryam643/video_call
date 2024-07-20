@@ -19,11 +19,6 @@ This is a video calling application built for experimenting socket. You can use 
 6. Run `npm start` to start the client
 7. Visit `localhost:3000`
 
-## What's next 🚀
-
-- Better UI
-- More controls on the video/audio
-
 ## Tech stacks
 
 - React
